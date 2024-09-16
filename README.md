@@ -1,10 +1,28 @@
-# VueTube Vue Frontend - YouTube Clone
+# Youtube_Clone_Frontend Prjoject
 
-> This is the frontend (VueJS) of the VueTube clone
+#### You can check the screenshots folder to see how this project in live mode looks.
 
-## API
+## Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Vue.js
+- Vue CLI
+- Vue Router
+- Vuex (State Management)
+- Components and Reusability
+- Two-way Data Binding (v-model)
+- Lifecycle Hooks
+- Single File Components (SFC)
+- Async Components
+- Error Handling
+- Transitions and Animations
+- Axios (or Fetch API) for HTTP requests
 
-Backend RESTFUL API Repository [API](https://github.com/techreagan/youtube-clone-nodejs-api)
+## Backend Project and Its Restful API
+
+Here's Backend Project Repository [API](https://github.com/markus-wilkes/youtube_clone_backend.github.io)
 
 ## Features
 
@@ -84,17 +102,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Screenshot](screenshots/1%20-%20Home.jpg)
 
-### Trending Page (/trending)
-
-![Screenshot](screenshots/2%20-%20Trending.jpg)
 
 ### Subscriptions Page (/subscriptions)
 
 ![Screenshot](screenshots/3%20-%20Subscriptions.jpg)
-
-### History (Watch) Page (/history)
-
-![Screenshot](screenshots/4%20-%20Watch%20History.jpg)
 
 ### History (Search) Page (/history)
 
@@ -124,44 +135,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Screenshot](screenshots/10%20-%20Dashboard.jpg)
 
-### Subscribers Modal (/studio)
-
-![Screenshot](screenshots/11%20-%20Subscribers%20Modal.jpg)
-
-### Upload Video Modal
-
-![Screenshot](screenshots/12%20-%20Upload%20Modal.jpg)
-
-### Upload Video Detail Modal
-
-![Screenshot](screenshots/13%20-%20Video%20Details.jpg)
-
-### Videos Page (/studio/videos)
-
-![Screenshot](screenshots/14%20-%20Videos.jpg)
-
-### Edit Video Details (/studio/details/:videoId)
-
-![Screenshot](screenshots/15%20-%20Edit%20Video%20Details.jpg)
-
-### Upload Thumbnail Modal (/studio/details/:videoId)
-
-![Screenshot](screenshots/16%20-%20Upload%20Thumbnail%20Modal.jpg)
-
-### Delete Video Modal (/studio/videos)
-
-![Screenshot](screenshots/17%20-%20Delete%20Video%20Modal.jpg)
-
-### Settings Modal
-
-![Screenshot](screenshots/17%20-%20Delete%20Video%20Modal.jpg)
-
-If you like the UI, I developed it in a seperate repo [VueTube](https://github.com/techreagan/vuetify-youtube-clone-template)
-
 ## License
 
 This project is licensed under the MIT License
 
-## Developed by Reagan Ekhameye (Tech Reagan)
+## Developed by Marcus Wilkes
 
-Reach me on twitter [@techreagan](https://www.twitter.com/techreagan)
