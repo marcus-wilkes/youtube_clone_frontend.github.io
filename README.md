@@ -22,7 +22,7 @@
 
 ## Backend Project and Its Restful API
 
-Here's Backend Project Repository [Repo](https://github.com/markus-wilkes/youtube_clone_backend.github.io)
+You can visit to its backend part [Here](https://github.com/markus-wilkes/youtube_clone_backend.github.io)
 
 ## Features
 
