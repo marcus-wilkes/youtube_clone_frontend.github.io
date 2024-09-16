@@ -111,29 +111,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![Screenshot](screenshots/5%20-%20Search%20History.jpg)
 
-### Liked Videos Page (/liked-videos)
-
-![Screenshot](screenshots/6%20-%20Liked%20Videos.jpg)
-
-### Search Page (/search)
-
-![Screenshot](screenshots/19%20-%20Search.jpg)
-
-### Watch Page (/watch/:videoId)
-
-![Screenshot](screenshots/7%20-%20Watch.jpg)
-
-### Comment & Reply (/watch/:videoId)
-
-![Screenshot](screenshots/8%20-%20Comment%20-%20Reply.jpg)
-
-### Channel Page (/channels/:channelId)
-
-![Screenshot](screenshots/9%20-%20Channel.jpg)
-
-### Dashboard Page (/studio)
-
-![Screenshot](screenshots/10%20-%20Dashboard.jpg)
 
 ## License
 
